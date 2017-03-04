@@ -1,0 +1,22 @@
+This program is created to satify the mastery challenge computer science security level 1 achievement.
+
+This program impliments a XOR cipher to encode a file and outputs the result via standard out.
+
+How To Use:
+	Compile by typing 'make'
+	
+	Type 'test File' to encode and decode the File
+
+Sample encoding:
+	Original content:
+			Hello Mastery Challenge tester please pass me.
+			I really want to pass senior design.
+			Please...
+	
+	Encoded content:
+			·ß²ß¼ßßßßÑõ¶ßßßßßßÑõ¯ÑÑÑõ
+
+	Decoded content:
+			Hello Mastery Challenge tester please pass me.
+			I really want to pass senior design.
+			Please...
